@@ -12,6 +12,7 @@ return array(
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
     'Liuggio' => array($vendorDir . '/liuggio/statsd-php-client/src'),
     'Less' => array($vendorDir . '/oyejorge/less.php/lib'),
+    'Kafka\\' => array($vendorDir . '/nmred/kafka-php/src'),
     'DataValues\\' => array($vendorDir . '/data-values/data-values/src', $vendorDir . '/data-values/common/src'),
     'Composer\\Installers\\' => array($vendorDir . '/composer/installers/src'),
     'ComposerHookHandler' => array($baseDir . '/includes/composer'),
